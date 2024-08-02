@@ -1,0 +1,8 @@
+
+[submodule "runnerz"]
+    path = runnerz
+    url = https://github.com/wchwawa/mini-springboot-project.git
+
+[submodule "quizapp"]
+    path = quizapp
+    url = <https://github.com/wchwawa/mini-springboot-project.git>
